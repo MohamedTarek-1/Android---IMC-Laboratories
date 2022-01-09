@@ -7,7 +7,6 @@ What i Learned this project
 - Connecting to Restful APIs
 -	Supporting Different Screen Sizes
 - Models 
-- Json
 - PDF Viwers
-- Download Managers
+- Download Manager
 - Bugs Related to Internet Connection 
