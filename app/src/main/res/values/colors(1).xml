@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#309EA0</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="sss">#FFFFFF</color>
+    <color name="blue">#006FC0</color>
+    <color name="lightblue">#33B9F5</color>
+    <color name="lightblue2">#58CAB8</color>
+    <color name="brown">#ABC08000</color>
+    <color name="lightpink">#60C69CC9</color>
+    <color name="lightTheme">#00BFA5</color>
+    <color name="DarkTheme">#004d61</color>
+    <color name="AppTheme2">#009780</color>
+
+
+</resources>

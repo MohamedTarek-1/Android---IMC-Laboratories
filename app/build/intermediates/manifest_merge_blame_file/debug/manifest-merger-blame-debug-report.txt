@@ -1,0 +1,168 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.imc"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:7:5-67
+11-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:8:5-81
+12-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:8:22-78
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:9:5-79
+13-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:9:22-76
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:10:5-75
+14-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:10:22-72
+15    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+15-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:11:5-81
+15-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:11:22-78
+16    <uses-permission android:name="android.permission.BLUETOOTH" />
+16-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:12:5-68
+16-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:12:22-65
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:13:5-80
+17-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:13:22-77
+18    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+18-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:14:5-74
+18-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:14:22-71
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:15:5-76
+19-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:15:22-73
+20    <uses-permission android:name="android.permission.CALL_PHONE" />
+20-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:16:5-69
+20-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:16:22-66
+21
+22    <supports-screens
+22-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:18:5-23:40
+23        android:anyDensity="true"
+23-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:19:9-34
+24        android:largeScreens="true"
+24-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:20:9-36
+25        android:normalScreens="true"
+25-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:21:9-37
+26        android:smallScreens="true"
+26-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:22:9-36
+27        android:xlargeScreens="true" />
+27-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:23:9-37
+28
+29    <meta-data
+29-->[com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+30        android:name="android.support.VERSION"
+30-->[com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:26:9-47
+31        android:value="25.3.1" />
+31-->[com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+32
+33    <application
+33-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:25:5-71:19
+34        android:allowBackup="true"
+34-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:26:9-35
+35        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+35-->[com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+36        android:debuggable="true"
+37        android:icon="@drawable/imclogo1"
+37-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:27:9-42
+38        android:label="@string/app_name"
+38-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:28:9-41
+39        android:roundIcon="@drawable/imclogo1"
+39-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:29:9-47
+40        android:supportsRtl="false"
+40-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:30:9-36
+41        android:theme="@style/AppTheme"
+41-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:31:9-40
+42        android:usesCleartextTraffic="true" >
+42-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:32:9-44
+43        <activity android:name="com.example.imc.Activities.Regsitration" />
+43-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:34:9-70
+43-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:34:19-58
+44        <activity
+44-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:35:9-37:15
+45            android:name="com.example.imc.PDF.Radios"
+45-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:35:19-45
+46            android:screenOrientation="portrait" />
+46-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:36:13-49
+47        <activity
+47-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:38:9-40:52
+48            android:name="com.example.imc.Activities.DwldPDF"
+48-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:39:13-47
+49            android:screenOrientation="portrait" />
+49-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:40:13-49
+50        <activity android:name="com.example.imc.Activities.PDFview" />
+50-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:41:9-56
+50-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:41:19-53
+51        <activity
+51-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:43:9-45:15
+52            android:name="com.example.imc.PDF.Resultsdwldview"
+52-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:43:19-54
+53            android:screenOrientation="portrait" />
+53-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:44:13-49
+54        <activity
+54-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:47:9-49:15
+55            android:name="com.example.imc.PDF.Tumors"
+55-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:47:19-45
+56            android:screenOrientation="portrait" />
+56-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:48:13-49
+57        <activity android:name="com.example.imc.Activities.Home" />
+57-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:50:9-53
+57-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:50:19-50
+58        <activity android:name="com.example.imc.Activities.OnBoardActivity" />
+58-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:52:9-64
+58-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:52:19-61
+59        <activity
+59-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:54:9-66:20
+60            android:name="com.example.imc.Activities.SplashActivity"
+60-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:55:13-54
+61            android:screenOrientation="portrait" >
+61-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:56:13-49
+62            <intent-filter>
+62-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:58:13-62:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:59:17-69
+63-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:59:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:61:17-77
+65-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:61:27-74
+66            </intent-filter>
+67            <intent-filter>
+67-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:63:13-65:29
+68                <action android:name="android.intent.action.VIEW" />
+68-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:64:17-69
+68-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:64:25-66
+69            </intent-filter>
+70        </activity>
+71
+72        <meta-data
+72-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:68:9-70:57
+73            android:name="preloaded_fonts"
+73-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:69:13-43
+74            android:resource="@array/preloaded_fonts" />
+74-->F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:70:13-54
+75
+76        <activity
+76-->[com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+77            android:name="com.karumi.dexter.DexterActivity"
+77-->[com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:28:13-60
+78            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+78-->[com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:29:13-69
+79        <activity
+79-->[pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:12:9-16:66
+80            android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
+80-->[pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:13:13-86
+81            android:exported="false"
+81-->[pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:14:13-37
+82            android:label=""
+82-->[pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:15:13-29
+83            android:theme="@style/EasyPermissions.Transparent" />
+83-->[pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:16:13-63
+84    </application>
+85
+86</manifest>

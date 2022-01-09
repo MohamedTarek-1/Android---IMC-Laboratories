@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_xl" />
+        <device id="5.4in FWVGA" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_2" />
+        <device id="pixel_3" />
+        <device id="Nexus 6" />
+        <device id="pixel" />
+        <device id="Nexus 6P" />
+        <device id="3.4in WQVGA" />
+        <device id="3.2in HVGA slider (ADP1)" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/SplashActivity.java" line="35" mnemonic="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffb5abd9-69d1-49fb-9882-f679d7c959d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="IMC" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/DwldPDF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+              <folding>
+                <element signature="method#call#0;class#DwldPDF#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Resultsdwldview.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11100">
+              <caret line="598" column="32" selection-start-line="598" selection-start-column="32" selection-end-line="598" selection-end-column="32" />
+              <folding>
+                <element signature="e#16347#21542#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dwld_pdf.xml">
+          <provider selected="true" editor-type-id="android-designer2" />
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="3780">
+              <caret line="189" column="31" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/Home.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="963" column="20" selection-start-line="963" selection-start-column="20" selection-end-line="963" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Radios.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="815" column="68" selection-start-line="812" selection-end-line="819" />
+              <folding>
+                <element signature="e#4255#10711#0" />
+                <element signature="e#10716#12210#0" />
+                <element signature="e#15451#16009#0" />
+                <element signature="e#24363#24684#0" expanded="true" />
+                <element signature="e#24683#24684#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Tumors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11200">
+              <caret line="599" column="40" selection-start-line="599" selection-start-column="40" selection-end-line="599" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guideline3</find>
+      <find>guideline2</find>
+      <find>guideline2\</find>
+      <find>guideline12</find>
+      <find>dime</find>
+      <find>imageView</find>
+      <find>alertNoconnection</find>
+      <find>isFini</find>
+      <find>NewAlertNoConnection</find>
+      <find>isFinis</find>
+      <find>Resultsdwldview</find>
+      <find>Tumors</find>
+      <find>NewAlertWrong</find>
+      <find>recycler</find>
+      <find>HorizontalGuide1</find>
+      <find>logout</find>
+      <find>alertdialog</find>
+      <find>newalert2</find>
+      <find>getText</find>
+      <find>start</find>
+      <find>replace</find>
+      <find>NewAlertNoCon</find>
+      <find>NewAlertWron</find>
+      <find>toast</find>
+      <find>NewAlert</find>
+      <find>Toast</find>
+      <find>NewAler</find>
+      <find>case</find>
+      <find>Newalert</find>
+      <find>check</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/edit_round.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/gradient.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/btn_select.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_shape.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alert_wrongInput.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/ripple_effect.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_shape2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw300dp/row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw720dp/row.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/Regsitration.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_regsitration.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens-sw480dp.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/activity_dwld_pdf.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw720dp/activity_dwld_pdf.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw300dp/activity_dwld_pdf.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alert_logout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alert_wronginput.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_dwld_pdf.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_on_board.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/OnBoardActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/slide_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_resultsdwldview.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/radios.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/tumors.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/MainAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-sw300dp/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-sw720dp/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values-sw480dp/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw300dp/activity_splash.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alert_dialog.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alert_dialog2.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/SliderAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw300dp/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw720dp/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw240dp/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw480dp/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout-sw600dp/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/DwldPDF.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Resultsdwldview.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Tumors.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/alert_noconnection.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Radios.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/Home.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="9" />
+    <option name="width" value="1001" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IMC" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="algorithm" value="Scalr" />
+    <property name="android.recentlyUsedThemes" value="Base.Theme.MaterialComponents.Light.DarkActionBar&#10;Base.Theme.AppCompat" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Nexus_5X_API_25" />
+    <property name="format" value="JPG" />
+    <property name="lastFolderRoot" value="D:/Materials/Backgrounds/ttttt.jpg" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="D:/Materials/Backgrounds/ttttt.jpg" />
+    <property name="method" value="Automatic" />
+    <property name="resolutions" value="XXXHDPI&#10;XXHDPI&#10;HDPI&#10;XHDPI&#10;LDPI&#10;MDPI" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="sourceResolution" value="XXXHDPI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.imc.Activities" />
+      <recent name="com.example.imc" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.example.imc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\res\layout" />
+      <recent name="C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\java\com\example\imc\PDF" />
+      <recent name="C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\res\layout\fragments" />
+      <recent name="C:\Users\IT\AndroidStudioProjects\IMC\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.imc.Activities" />
+      <recent name="com.example.imc" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.imc" />
+      <recent name="Fragments" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\res\drawable" />
+      <recent name="C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\res\layout-sw720dp" />
+      <recent name="C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\res\layout" />
+      <recent name="C:\Users\IT\AndroidStudioProjects\IMC\app\src\main\res\drawable" />
+      <recent name="C:\Users\IT\AndroidStudioProjects\IMC\app\src\main\res\layout" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.imc" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffb5abd9-69d1-49fb-9882-f679d7c959d1" name="Default Changelist" comment="" />
+      <created>1564770611454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564770611454</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Resources Explorer" order="0" sideWeight="0.5017794" side_tool="true" weight="0.22429305" />
+      <window_info id="Captures" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49822065" visible="true" weight="0.20886889" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.58097684" weight="0.34724092" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.5822622" weight="0.12651414" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49357328" weight="0.30551818" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49614397" weight="0.4858681" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.08033419" side_tool="true" weight="0.36473754" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49421594" weight="0.33109018" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.9196658" visible="true" weight="0.04037685" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.4993573" weight="0.4629879" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Android Profiler" order="10" show_stripe_button="false" sideWeight="0.4993573" weight="0.32839838" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32969153" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.2673522" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Assistant" order="6" sideWeight="0.49929875" weight="0.16966581" />
+      <window_info anchor="right" id="Device File Explorer" order="7" sideWeight="0.50070125" side_tool="true" weight="0.26285347" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Resources Explorer" order="0" sideWeight="0.5017794" side_tool="true" weight="0.22429305" />
+      <window_info id="Captures" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.49822065" visible="true" weight="0.15359898" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Build Variants" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Designer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info active="true" anchor="bottom" id="Run" order="0" sideWeight="0.58097684" visible="true" weight="0.04037685" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.5822622" weight="0.61776584" />
+      <window_info anchor="bottom" id="TODO" order="2" sideWeight="0.49357328" weight="0.30551818" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49614397" weight="0.4858681" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.08033419" side_tool="true" weight="0.36473754" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.49421594" weight="0.33109018" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.9196658" weight="0.44818303" />
+      <window_info anchor="bottom" id="Find" order="8" sideWeight="0.4993573" weight="0.4629879" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32974428" />
+      <window_info anchor="bottom" id="Android Profiler" order="10" sideWeight="0.4993573" weight="0.32839838" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32969153" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Preview" order="3" weight="0.2673522" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Assistant" order="6" sideWeight="0.49929875" weight="0.16966581" />
+      <window_info anchor="right" id="Device File Explorer" order="7" sideWeight="0.50070125" side_tool="true" weight="0.26285347" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens-sw480dp.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/Regsitration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_regsitration.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="2780">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/font_certs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw720dp/activity_dwld_pdf.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw480dp/activity_dwld_pdf.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw300dp/activity_dwld_pdf.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alert_wronginput.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_on_board.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/slide_layout.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tumors.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_resultsdwldview.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/radios.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/OnBoardActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="145" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="e#1420#1611#0" expanded="true" />
+            <element signature="e#1610#1611#0" expanded="true" />
+            <element signature="e#1658#1842#0" expanded="true" />
+            <element signature="e#1841#1842#0" expanded="true" />
+            <element signature="e#1886#2146#0" expanded="true" />
+            <element signature="e#2145#2146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/sky-blue.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#1308#1326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/MainAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="359" lean-forward="true" selection-start-line="359" selection-end-line="359" />
+          <folding>
+            <element signature="class#ViewHolder#0;class#MainAdapter#0" />
+            <element signature="method#ViewHolder#0;class#ViewHolder#0;class#MainAdapter#0" />
+            <element signature="method#insertItemInList#0;class#MainAdapter#0" />
+            <element signature="method#insertItemsInList#0;class#MainAdapter#0" />
+            <element signature="method#clearList#0;class#MainAdapter#0" />
+            <element signature="method#openFolder#0;class#MainAdapter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw300dp/activity_splash.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-sw720dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-sw300dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-sw480dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alert_logout.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/btscan.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ttttt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/SliderAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="46" column="74" selection-start-line="46" selection-start-column="74" selection-end-line="46" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="377" column="46" selection-start-line="377" selection-start-column="46" selection-end-line="377" selection-end-column="46" />
+          <folding>
+            <element signature="e#11890#11908#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw300dp/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="377" column="46" selection-start-line="377" selection-start-column="46" selection-end-line="377" selection-end-column="46" />
+          <folding>
+            <element signature="e#3832#3847#0" expanded="true" />
+            <element signature="e#5260#5278#0" expanded="true" />
+            <element signature="e#5677#5695#0" expanded="true" />
+            <element signature="e#6342#6360#0" expanded="true" />
+            <element signature="e#6800#6818#0" expanded="true" />
+            <element signature="e#8432#8449#0" expanded="true" />
+            <element signature="e#8492#8510#0" expanded="true" />
+            <element signature="e#8759#8773#0" expanded="true" />
+            <element signature="e#9005#9023#0" expanded="true" />
+            <element signature="e#10147#10164#0" expanded="true" />
+            <element signature="e#10207#10225#0" expanded="true" />
+            <element signature="e#10468#10482#0" expanded="true" />
+            <element signature="e#10716#10734#0" expanded="true" />
+            <element signature="e#11858#11875#0" expanded="true" />
+            <element signature="e#11918#11936#0" expanded="true" />
+            <element signature="e#12183#12197#0" expanded="true" />
+            <element signature="e#12427#12445#0" expanded="true" />
+            <element signature="e#13570#13587#0" expanded="true" />
+            <element signature="e#13630#13648#0" expanded="true" />
+            <element signature="e#13893#13907#0" expanded="true" />
+            <element signature="e#14140#14158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw240dp/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="377" column="14" selection-end-line="377" selection-end-column="46" />
+          <folding>
+            <element signature="e#3832#3847#0" expanded="true" />
+            <element signature="e#5015#5033#0" expanded="true" />
+            <element signature="e#5432#5450#0" expanded="true" />
+            <element signature="e#6097#6115#0" expanded="true" />
+            <element signature="e#6555#6573#0" expanded="true" />
+            <element signature="e#8187#8204#0" expanded="true" />
+            <element signature="e#8247#8265#0" expanded="true" />
+            <element signature="e#8514#8528#0" expanded="true" />
+            <element signature="e#8760#8778#0" expanded="true" />
+            <element signature="e#9902#9919#0" expanded="true" />
+            <element signature="e#9962#9980#0" expanded="true" />
+            <element signature="e#10223#10237#0" expanded="true" />
+            <element signature="e#10471#10489#0" expanded="true" />
+            <element signature="e#11613#11630#0" expanded="true" />
+            <element signature="e#11673#11691#0" expanded="true" />
+            <element signature="e#11938#11952#0" expanded="true" />
+            <element signature="e#12182#12200#0" expanded="true" />
+            <element signature="e#13325#13342#0" expanded="true" />
+            <element signature="e#13385#13403#0" expanded="true" />
+            <element signature="e#13648#13662#0" expanded="true" />
+            <element signature="e#13895#13913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="377" column="46" selection-start-line="377" selection-start-column="46" selection-end-line="377" selection-end-column="46" />
+          <folding>
+            <element signature="e#13628#13642#0" expanded="true" />
+            <element signature="e#13875#13893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw720dp/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="377" column="46" selection-start-line="377" selection-start-column="46" selection-end-line="377" selection-end-column="46" />
+          <folding>
+            <element signature="e#3832#3847#0" expanded="true" />
+            <element signature="e#5015#5033#0" expanded="true" />
+            <element signature="e#5432#5450#0" expanded="true" />
+            <element signature="e#6097#6115#0" expanded="true" />
+            <element signature="e#6555#6573#0" expanded="true" />
+            <element signature="e#8187#8204#0" expanded="true" />
+            <element signature="e#8247#8265#0" expanded="true" />
+            <element signature="e#8514#8528#0" expanded="true" />
+            <element signature="e#8760#8778#0" expanded="true" />
+            <element signature="e#9902#9919#0" expanded="true" />
+            <element signature="e#9962#9980#0" expanded="true" />
+            <element signature="e#10223#10237#0" expanded="true" />
+            <element signature="e#10471#10489#0" expanded="true" />
+            <element signature="e#11613#11630#0" expanded="true" />
+            <element signature="e#11673#11691#0" expanded="true" />
+            <element signature="e#11938#11952#0" expanded="true" />
+            <element signature="e#12182#12200#0" expanded="true" />
+            <element signature="e#13325#13342#0" expanded="true" />
+            <element signature="e#13385#13403#0" expanded="true" />
+            <element signature="e#13648#13662#0" expanded="true" />
+            <element signature="e#13895#13913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-sw480dp/activity_home.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="377" column="46" selection-start-line="377" selection-start-column="46" selection-end-line="377" selection-end-column="46" />
+          <folding>
+            <element signature="e#3832#3847#0" expanded="true" />
+            <element signature="e#5260#5278#0" expanded="true" />
+            <element signature="e#5677#5695#0" expanded="true" />
+            <element signature="e#6342#6360#0" expanded="true" />
+            <element signature="e#6800#6818#0" expanded="true" />
+            <element signature="e#8432#8449#0" expanded="true" />
+            <element signature="e#8492#8510#0" expanded="true" />
+            <element signature="e#8759#8773#0" expanded="true" />
+            <element signature="e#9005#9023#0" expanded="true" />
+            <element signature="e#10147#10164#0" expanded="true" />
+            <element signature="e#10207#10225#0" expanded="true" />
+            <element signature="e#10468#10482#0" expanded="true" />
+            <element signature="e#10716#10734#0" expanded="true" />
+            <element signature="e#11858#11875#0" expanded="true" />
+            <element signature="e#11918#11936#0" expanded="true" />
+            <element signature="e#12183#12197#0" expanded="true" />
+            <element signature="e#12427#12445#0" expanded="true" />
+            <element signature="e#13570#13587#0" expanded="true" />
+            <element signature="e#13630#13648#0" expanded="true" />
+            <element signature="e#13893#13907#0" expanded="true" />
+            <element signature="e#14140#14158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/kkkf.png" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/tumoricon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/none.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alert_dialog2.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="33" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alert_dialog.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/alert_noconnection.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/DwldPDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
+          <folding>
+            <element signature="method#call#0;class#DwldPDF#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Resultsdwldview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11100">
+          <caret line="598" column="32" selection-start-line="598" selection-start-column="32" selection-end-line="598" selection-end-column="32" />
+          <folding>
+            <element signature="e#16347#21542#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_dwld_pdf.xml">
+      <provider selected="true" editor-type-id="android-designer2" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="189" column="31" selection-start-line="189" selection-start-column="25" selection-end-line="189" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Tumors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11200">
+          <caret line="599" column="40" selection-start-line="599" selection-start-column="40" selection-end-line="599" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/PDF/Radios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="815" column="68" selection-start-line="812" selection-end-line="819" />
+          <folding>
+            <element signature="e#4255#10711#0" />
+            <element signature="e#10716#12210#0" />
+            <element signature="e#15451#16009#0" />
+            <element signature="e#24363#24684#0" expanded="true" />
+            <element signature="e#24683#24684#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/imc/Activities/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="963" column="20" selection-start-line="963" selection-start-column="20" selection-end-line="963" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

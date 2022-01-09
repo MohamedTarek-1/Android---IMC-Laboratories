@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\2979524c292df91779e3cdedb7607c12\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\1cfcc5640e0184b6987d487754ada4e3\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7f040f3e28abd080e48b9b1fcf4eff45\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\02bb7817bb0fe0a042ba9659fbad1744\volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d8dd7fbf8510c8afdb687029d6bc4d2d\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\93ac562ff3c73138aebe6ef005735a37\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\033b70387f664dcd2584d5271c409f9d\expandable-layout-1.6.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fc68f2601ff8c597935e9636c67e2d16\android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d0c42684120dd9df31bee67b7d3a32fc\File-Loader-1.2\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\0536f9ef43fb59bf05e1080a86440d86\PhotoView-1.2.6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\60b64d08a7829f69607022912004342c\sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\3aeb26e446afcb9fc3f3ba5c97cec2e5\gridlayout-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\765ff7469045bf8b7905cd2641a5ad15\pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fd13c16c1d41d2d078616254313950bc\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\652264ee89ebc9a0dd23bada1b310388\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fec4143caac6c77ca0dcc58e9bee6334\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b14449f7778397107aefbc2073c4dfcb\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\55b23c308d05e77087608944a31bf3c8\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b3c903bedafc000ed77e7df42b845e8d\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\4c58dc15dcbee3ec0dfc30f96eb4741a\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\3c9927edeca73e8bbc2391bc8ed4a51d\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b22a9af04454b6f3969f066c85c164c7\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7ed8a88f330e85f795215d111326f24a\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\6169a8d32f48e6c73408249aab547039\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\29226520215e49bbc944d0e97d9baa88\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\14297fec31de27f4a4cc6aa4e57134e8\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\627ce970ae6b8a45ab2227bc815d549b\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d61bdad53884636d1d129b5dd9ebc5eb\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\75dcf2006cdade7b42a26afe59800a45\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\a23810a9c0a6c895c593c4f7f9cd75cc\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\74897f66e0b2c616831f2328d54dc04f\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\90c9714567d87f52c159507c861bbd84\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\789a364b1b81f80eb9b697ecd2011841\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7be4518c81518322cf175285c0898158\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\c4cc25ef702867f16f1f70ef1abfac9a\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\294931bd521190681b14af2d66409b38\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\bce66d7c7102994544f1a56501294559\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\6c02cdcbc9492ee18661efba0fb4f4c6\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:5:5-44
+uses-permission#android.permission.INTERNET
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:16:22-66
+supports-screens
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:18:5-23:40
+	android:largeScreens
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:20:9-36
+	android:smallScreens
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:22:9-36
+	android:normalScreens
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:21:9-37
+	android:xlargeScreens
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:23:9-37
+	android:anyDensity
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:19:9-34
+application
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:25:5-71:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\2979524c292df91779e3cdedb7607c12\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\2979524c292df91779e3cdedb7607c12\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7f040f3e28abd080e48b9b1fcf4eff45\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7f040f3e28abd080e48b9b1fcf4eff45\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\02bb7817bb0fe0a042ba9659fbad1744\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\02bb7817bb0fe0a042ba9659fbad1744\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\033b70387f664dcd2584d5271c409f9d\expandable-layout-1.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\033b70387f664dcd2584d5271c409f9d\expandable-layout-1.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d0c42684120dd9df31bee67b7d3a32fc\File-Loader-1.2\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d0c42684120dd9df31bee67b7d3a32fc\File-Loader-1.2\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d61bdad53884636d1d129b5dd9ebc5eb\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d61bdad53884636d1d129b5dd9ebc5eb\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:30:9-36
+		REJECTED from [com.github.kk121:File-Loader:1.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d0c42684120dd9df31bee67b7d3a32fc\File-Loader-1.2\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:28:9-41
+	android:roundIcon
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:29:9-47
+	android:icon
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:27:9-42
+	android:allowBackup
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:31:9-40
+	tools:replace
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:33:9-44
+	android:usesCleartextTraffic
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:32:9-44
+activity#com.example.imc.Activities.Regsitration
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:34:19-58
+activity#com.example.imc.PDF.Radios
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:35:9-37:15
+	android:screenOrientation
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.example.imc.Activities.DwldPDF
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:39:13-47
+activity#com.example.imc.Activities.PDFview
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:41:19-53
+activity#com.example.imc.PDF.Resultsdwldview
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:43:9-45:15
+	android:screenOrientation
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:43:19-54
+activity#com.example.imc.PDF.Tumors
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:47:9-49:15
+	android:screenOrientation
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:47:19-45
+activity#com.example.imc.Activities.Home
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:50:9-53
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:50:19-50
+activity#com.example.imc.Activities.OnBoardActivity
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:52:9-64
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:52:19-61
+activity#com.example.imc.Activities.SplashActivity
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:54:9-66:20
+	android:screenOrientation
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:55:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:61:27-74
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:63:13-65:29
+action#android.intent.action.VIEW
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:64:25-66
+meta-data#preloaded_fonts
+ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:68:9-70:57
+	android:resource
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:70:13-54
+	android:name
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:69:13-43
+uses-sdk
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\2979524c292df91779e3cdedb7607c12\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\2979524c292df91779e3cdedb7607c12\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\1cfcc5640e0184b6987d487754ada4e3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\1cfcc5640e0184b6987d487754ada4e3\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7f040f3e28abd080e48b9b1fcf4eff45\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7f040f3e28abd080e48b9b1fcf4eff45\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\02bb7817bb0fe0a042ba9659fbad1744\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\02bb7817bb0fe0a042ba9659fbad1744\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d8dd7fbf8510c8afdb687029d6bc4d2d\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d8dd7fbf8510c8afdb687029d6bc4d2d\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\93ac562ff3c73138aebe6ef005735a37\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\93ac562ff3c73138aebe6ef005735a37\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\033b70387f664dcd2584d5271c409f9d\expandable-layout-1.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\033b70387f664dcd2584d5271c409f9d\expandable-layout-1.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fc68f2601ff8c597935e9636c67e2d16\android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fc68f2601ff8c597935e9636c67e2d16\android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d0c42684120dd9df31bee67b7d3a32fc\File-Loader-1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d0c42684120dd9df31bee67b7d3a32fc\File-Loader-1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\0536f9ef43fb59bf05e1080a86440d86\PhotoView-1.2.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\0536f9ef43fb59bf05e1080a86440d86\PhotoView-1.2.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\60b64d08a7829f69607022912004342c\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\60b64d08a7829f69607022912004342c\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\3aeb26e446afcb9fc3f3ba5c97cec2e5\gridlayout-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\3aeb26e446afcb9fc3f3ba5c97cec2e5\gridlayout-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\765ff7469045bf8b7905cd2641a5ad15\pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\765ff7469045bf8b7905cd2641a5ad15\pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fd13c16c1d41d2d078616254313950bc\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fd13c16c1d41d2d078616254313950bc\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\652264ee89ebc9a0dd23bada1b310388\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\652264ee89ebc9a0dd23bada1b310388\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fec4143caac6c77ca0dcc58e9bee6334\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\fec4143caac6c77ca0dcc58e9bee6334\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b14449f7778397107aefbc2073c4dfcb\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b14449f7778397107aefbc2073c4dfcb\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\55b23c308d05e77087608944a31bf3c8\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\55b23c308d05e77087608944a31bf3c8\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b3c903bedafc000ed77e7df42b845e8d\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b3c903bedafc000ed77e7df42b845e8d\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\4c58dc15dcbee3ec0dfc30f96eb4741a\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\4c58dc15dcbee3ec0dfc30f96eb4741a\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\3c9927edeca73e8bbc2391bc8ed4a51d\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\3c9927edeca73e8bbc2391bc8ed4a51d\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b22a9af04454b6f3969f066c85c164c7\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\b22a9af04454b6f3969f066c85c164c7\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7ed8a88f330e85f795215d111326f24a\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7ed8a88f330e85f795215d111326f24a\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\6169a8d32f48e6c73408249aab547039\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\6169a8d32f48e6c73408249aab547039\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\29226520215e49bbc944d0e97d9baa88\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\29226520215e49bbc944d0e97d9baa88\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\14297fec31de27f4a4cc6aa4e57134e8\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\14297fec31de27f4a4cc6aa4e57134e8\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\627ce970ae6b8a45ab2227bc815d549b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\627ce970ae6b8a45ab2227bc815d549b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d5635a77c799f5c3f3c2d319b1aecb08\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d61bdad53884636d1d129b5dd9ebc5eb\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\d61bdad53884636d1d129b5dd9ebc5eb\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\75dcf2006cdade7b42a26afe59800a45\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\75dcf2006cdade7b42a26afe59800a45\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\a23810a9c0a6c895c593c4f7f9cd75cc\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\a23810a9c0a6c895c593c4f7f9cd75cc\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\74897f66e0b2c616831f2328d54dc04f\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\74897f66e0b2c616831f2328d54dc04f\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\90c9714567d87f52c159507c861bbd84\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\90c9714567d87f52c159507c861bbd84\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\789a364b1b81f80eb9b697ecd2011841\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\789a364b1b81f80eb9b697ecd2011841\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7be4518c81518322cf175285c0898158\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\7be4518c81518322cf175285c0898158\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\c4cc25ef702867f16f1f70ef1abfac9a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\c4cc25ef702867f16f1f70ef1abfac9a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\294931bd521190681b14af2d66409b38\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\294931bd521190681b14af2d66409b38\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\bce66d7c7102994544f1a56501294559\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\bce66d7c7102994544f1a56501294559\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\6c02cdcbc9492ee18661efba0fb4f4c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\6c02cdcbc9492ee18661efba0fb4f4c6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Life\Android Project\Android Last Relese-20191206T213146Z-001\Android Last Relese\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f88db2bd7d5894f18eceaa6a098c75d5\dexter-5.0.0\AndroidManifest.xml:28:13-60
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\486264dcb0f9a13a3d81019bc64019b2\easypermissions-2.0.1\AndroidManifest.xml:13:13-86
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\f29777570032e175ec9aa3e4a5ecbe11\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Tyriel\.gradle\caches\transforms-2\files-2.1\887300298bbf640d9a3e8ab7a3924176\support-v4-25.3.1\AndroidManifest.xml:26:9-47

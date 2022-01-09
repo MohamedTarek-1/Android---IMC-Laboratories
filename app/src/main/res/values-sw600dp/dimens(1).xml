@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="imgwidth">@dimen/_50sdp</dimen>
+    <dimen name="imgheight">@dimen/_50sdp</dimen>
+
+    <dimen name="imgwidth2">93dp</dimen>
+    <dimen name="imgheight2">88dp</dimen>
+
+
+</resources>

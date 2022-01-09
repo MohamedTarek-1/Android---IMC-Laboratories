@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.chrisbanes:PhotoView:1.2.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cbe205a7169654a42a9837b429acbfb/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9cbe205a7169654a42a9837b429acbfb/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97d82e6dc0197fc01cd3b69b038e88ac/PhotoView-1.2.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97d82e6dc0197fc01cd3b69b038e88ac/PhotoView-1.2.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/97d82e6dc0197fc01cd3b69b038e88ac/PhotoView-1.2.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/1.2.6/3854cf8a92f20e89a14d6c6bdf5860ae034cc7be/PhotoView-1.2.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.chrisbanes/PhotoView/1.2.6/f3e325a04ae59dfaefd01143492ebfd95c70e5d/PhotoView-1.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

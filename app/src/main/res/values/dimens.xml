@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="imgwidth">@dimen/_9sdp</dimen>
+    <dimen name="imgheight">@dimen/_9sdp</dimen>
+
+    <dimen name="imgwidth2">43dp</dimen>
+    <dimen name="imgheight2">37dp</dimen>
+
+
+    <dimen name="texxxt300">@dimen/_9sdp</dimen>
+    <dimen name="texxxt600">@dimen/_9sdp</dimen>
+    <dimen name="texxxt720">@dimen/_10sdp</dimen>
+    <dimen name="texxxt480">@dimen/_10sdp</dimen>
+
+</resources>

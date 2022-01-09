@@ -1,0 +1,359 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3b727b0c586ecabff6fb83db3dee552d\AndroidManifest.xml:17:1-24:12
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\6e08556f5fbba22f2af87d3bee057b53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\15b9786e3f5322f13fc72920b0dd3e03\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\cc433658bf376f342a89eace12becceb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\339afb7f77f167e82851960f0cfb8ebc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8c31068c3408a8a5cc0108454245ff6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3afdb7e40fb73a080079754267e9b7\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\4009ac55cef135b4c77e948bca88b1b3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\580776a543858971c2b0af1f64c7bf75\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9cbe205a7169654a42a9837b429acbfb\AndroidManifest.xml:2:1-12:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\b12f03288fe8e33613b038d12142ff89\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a1236d3d18aef02e0c5f8d70938dd016\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a90406daab4f3a9c71e2efd168202208\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3a3814b1413500e93d268e48d72fb612\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\94222d7c5495fdafc2d3eef16fa333a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\c9fd39cf61397e8bc8805ce09abbabcb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\57cbb7c6dfd7091a2abe0b151690ae83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\644794dcc4ad917991ff4b974be641b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fb8a08f0c4f96dd90c1c9a00b14f85bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\71eede785e4b06442b03a77a7d7548ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9ff52fa47b95ea4d6a672c3f00524f76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ab6274e6950bd062e286cfa08825a151\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\b7aeb9f1139ca8ae36afe872a0a9f2e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\46d28085cd4901fab405be35ab2d1bf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fbcc8028e586bf7413b07f394376287c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ee5b8bf699f1e650d0fcc7464f37f989\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\98ec04388e10d9d8d9c1642ad80924ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d13aa1b2c751db7d1079724c13e5f306\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d24dd3840947cb12fcf7c3d4bc4fa8ad\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\91c7494910cbba194d165073875eac12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\02f4d7ad817e8b0aa9a1203a87e941df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fd99670643e4030c01ef7d132fd4794a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fb4a7246b76ccaf6bac806eb0558157a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3da4a4810adc270e46c726495c3531\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3e0daf5ae31d80394cfc2ca43e058c2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ca5dbb2e515d3d8fa4625c81a51f1d23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\6812f9afcef78c5691b137c8582b985d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\0bcd1d78f380c6d895db88a99f52516f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9c8cf5d9f2353a3ab4e8d3465e58f578\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:5:5-44
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:14:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:15:22-73
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:16:5-69
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:16:22-66
+supports-screens
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:18:5-23:40
+	android:largeScreens
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:20:9-36
+	android:smallScreens
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:22:9-36
+	android:normalScreens
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:21:9-37
+	android:xlargeScreens
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:23:9-37
+	android:anyDensity
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:19:9-34
+application
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:25:5-71:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3b727b0c586ecabff6fb83db3dee552d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3b727b0c586ecabff6fb83db3dee552d\AndroidManifest.xml:22:5-20
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\15b9786e3f5322f13fc72920b0dd3e03\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\15b9786e3f5322f13fc72920b0dd3e03\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\cc433658bf376f342a89eace12becceb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\cc433658bf376f342a89eace12becceb\AndroidManifest.xml:9:5-20
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3afdb7e40fb73a080079754267e9b7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3afdb7e40fb73a080079754267e9b7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\580776a543858971c2b0af1f64c7bf75\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\580776a543858971c2b0af1f64c7bf75\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d13aa1b2c751db7d1079724c13e5f306\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d13aa1b2c751db7d1079724c13e5f306\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d24dd3840947cb12fcf7c3d4bc4fa8ad\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d24dd3840947cb12fcf7c3d4bc4fa8ad\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d13aa1b2c751db7d1079724c13e5f306\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:30:9-36
+		REJECTED from [com.github.kk121:File-Loader:1.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\580776a543858971c2b0af1f64c7bf75\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:28:9-41
+	android:roundIcon
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:29:9-47
+	android:icon
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:27:9-42
+	android:allowBackup
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:31:9-40
+	tools:replace
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:33:9-44
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:32:9-44
+activity#com.example.imc.Activities.Regsitration
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:34:19-58
+activity#com.example.imc.PDF.Radios
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:35:9-37:15
+	android:screenOrientation
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.example.imc.Activities.DwldPDF
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:39:13-47
+activity#com.example.imc.Activities.PDFview
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:41:19-53
+activity#com.example.imc.PDF.Resultsdwldview
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:43:9-45:15
+	android:screenOrientation
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:44:13-49
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:43:19-54
+activity#com.example.imc.PDF.Tumors
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:47:9-49:15
+	android:screenOrientation
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:48:13-49
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:47:19-45
+activity#com.example.imc.Activities.Home
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:50:9-53
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:50:19-50
+activity#com.example.imc.Activities.OnBoardActivity
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:52:9-64
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:52:19-61
+activity#com.example.imc.Activities.SplashActivity
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:54:9-66:20
+	android:screenOrientation
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:56:13-49
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:55:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:61:27-74
+intent-filter#action:name:android.intent.action.VIEW
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:63:13-65:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:64:25-66
+meta-data#preloaded_fonts
+ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:68:9-70:57
+	android:resource
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:70:13-54
+	android:name
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml:69:13-43
+uses-sdk
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3b727b0c586ecabff6fb83db3dee552d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3b727b0c586ecabff6fb83db3dee552d\AndroidManifest.xml:20:5-44
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\6e08556f5fbba22f2af87d3bee057b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\6e08556f5fbba22f2af87d3bee057b53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\15b9786e3f5322f13fc72920b0dd3e03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\15b9786e3f5322f13fc72920b0dd3e03\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\cc433658bf376f342a89eace12becceb\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\cc433658bf376f342a89eace12becceb\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\339afb7f77f167e82851960f0cfb8ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\339afb7f77f167e82851960f0cfb8ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8c31068c3408a8a5cc0108454245ff6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8c31068c3408a8a5cc0108454245ff6d\AndroidManifest.xml:20:5-44
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3afdb7e40fb73a080079754267e9b7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.aakira:expandable-layout:1.6.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3afdb7e40fb73a080079754267e9b7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\4009ac55cef135b4c77e948bca88b1b3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\4009ac55cef135b4c77e948bca88b1b3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\580776a543858971c2b0af1f64c7bf75\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kk121:File-Loader:1.2] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\580776a543858971c2b0af1f64c7bf75\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9cbe205a7169654a42a9837b429acbfb\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:1.2.6] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9cbe205a7169654a42a9837b429acbfb\AndroidManifest.xml:8:5-10:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\b12f03288fe8e33613b038d12142ff89\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\b12f03288fe8e33613b038d12142ff89\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a1236d3d18aef02e0c5f8d70938dd016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a1236d3d18aef02e0c5f8d70938dd016\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a90406daab4f3a9c71e2efd168202208\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a90406daab4f3a9c71e2efd168202208\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3a3814b1413500e93d268e48d72fb612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3a3814b1413500e93d268e48d72fb612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\94222d7c5495fdafc2d3eef16fa333a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\94222d7c5495fdafc2d3eef16fa333a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\c9fd39cf61397e8bc8805ce09abbabcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\c9fd39cf61397e8bc8805ce09abbabcb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\57cbb7c6dfd7091a2abe0b151690ae83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\57cbb7c6dfd7091a2abe0b151690ae83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\644794dcc4ad917991ff4b974be641b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\644794dcc4ad917991ff4b974be641b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fb8a08f0c4f96dd90c1c9a00b14f85bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fb8a08f0c4f96dd90c1c9a00b14f85bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\71eede785e4b06442b03a77a7d7548ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\71eede785e4b06442b03a77a7d7548ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9ff52fa47b95ea4d6a672c3f00524f76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9ff52fa47b95ea4d6a672c3f00524f76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ab6274e6950bd062e286cfa08825a151\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ab6274e6950bd062e286cfa08825a151\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\b7aeb9f1139ca8ae36afe872a0a9f2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\b7aeb9f1139ca8ae36afe872a0a9f2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\46d28085cd4901fab405be35ab2d1bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\46d28085cd4901fab405be35ab2d1bf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fbcc8028e586bf7413b07f394376287c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fbcc8028e586bf7413b07f394376287c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ee5b8bf699f1e650d0fcc7464f37f989\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ee5b8bf699f1e650d0fcc7464f37f989\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\98ec04388e10d9d8d9c1642ad80924ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\98ec04388e10d9d8d9c1642ad80924ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d13aa1b2c751db7d1079724c13e5f306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d13aa1b2c751db7d1079724c13e5f306\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d24dd3840947cb12fcf7c3d4bc4fa8ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\d24dd3840947cb12fcf7c3d4bc4fa8ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\91c7494910cbba194d165073875eac12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\91c7494910cbba194d165073875eac12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\02f4d7ad817e8b0aa9a1203a87e941df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\02f4d7ad817e8b0aa9a1203a87e941df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fd99670643e4030c01ef7d132fd4794a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fd99670643e4030c01ef7d132fd4794a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fb4a7246b76ccaf6bac806eb0558157a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\fb4a7246b76ccaf6bac806eb0558157a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3da4a4810adc270e46c726495c3531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7b3da4a4810adc270e46c726495c3531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3e0daf5ae31d80394cfc2ca43e058c2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\3e0daf5ae31d80394cfc2ca43e058c2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ca5dbb2e515d3d8fa4625c81a51f1d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\ca5dbb2e515d3d8fa4625c81a51f1d23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\6812f9afcef78c5691b137c8582b985d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\6812f9afcef78c5691b137c8582b985d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\0bcd1d78f380c6d895db88a99f52516f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\0bcd1d78f380c6d895db88a99f52516f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9c8cf5d9f2353a3ab4e8d3465e58f578\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\9c8cf5d9f2353a3ab4e8d3465e58f578\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pikachu\AndroidStudioProjects\IMC\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\27e09811c30555f22c9ef7b8f8cca3b9\AndroidManifest.xml:28:13-60
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:2.0.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\7111ecd83bf31a89b210d231b838f9fa\AndroidManifest.xml:13:13-86
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\a318442b9b37bd71bb89dbec3114062a\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Pikachu\.gradle\caches\transforms-2\files-2.1\8ca46dfe6364fc6b3501214539f792ad\AndroidManifest.xml:26:9-47
